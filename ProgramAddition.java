@@ -1,0 +1,12 @@
+class Addition
+{
+  public static void main(String[] args)
+  {
+    System.out.println("12+13");
+	System.out.println("3.2+10");
+	System.out.println("2.3+3.2");
+	System.out.println(10+2.5);
+  
+  }
+
+}
